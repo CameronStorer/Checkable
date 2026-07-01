@@ -1,3 +1,7 @@
+### This is an archived unsupported project structure built in tarui + react
+
+--
+
 # Simple-Tasks
 
 A minimal CalDAV task client for Windows/Mac/Linux built with Tauri + React.
