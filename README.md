@@ -1,28 +1,17 @@
-# Simple-Tasks
+# checkable
 
-A minimal CalDAV task client for Windows/Mac/Linux built with Tauri + React.
+A new Flutter project.
 
-Fills the gap for self-hosted Nextcloud users who want a native desktop task app.
+## Getting Started
 
-## Setup
+This project is a starting point for a Flutter application.
 
-1. Clone the repo
-2. Copy `.env.example` to `.env` and fill in your credentials
-3. Install dependencies: `npm install`
-4. Install Rust: https://rustup.rs
-5. Run in dev mode: `npm run tauri dev`
+A few resources to get you started if this is your first Flutter project:
 
-## Build
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-```bash
-npm run tauri build
-```
-
-Produces a standalone `.exe` in `src-tauri/target/release/bundle/`
-
-## Stack
-
-- [Tauri](https://tauri.app) — native desktop shell
-- [React + TypeScript](https://react.dev) — UI
-- [tsdav](https://tsdav.vercel.app) — CalDAV client
-- Nextcloud CalDAV backend
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
